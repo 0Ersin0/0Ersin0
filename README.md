@@ -1,58 +1,69 @@
-# Ersin Özüdoğru
+# Hi there, I'm Ersin! 👋
 ### Founder @ EO Digital Lab
-**Cybersecurity (Blue Team) & Software Developer | AI & Video Editor**
 
-> **Code • Create • Secure**
+**Cybersecurity (Red & Blue Team) | Frontend Dev | AI & Video Creator**
 
-[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ersin-%C3%B6z%C3%BCdo%C4%9Fru-3808342a8/)
+> *"Code • Create • Secure"*
 
----
-
-### 🚀 The Key to the Digital Future
-
-I am consolidating years of intense personal development and hands-on, application-focused work under one unified umbrella: **EO Digital Lab**.
-
-This brand represents my deep expertise and vision within the digital ecosystem. As a Founder and Developer, I don't just observe; I build tangible solutions focusing on 4 critical pillars:
-
-* 🔵 **SOFTWARE (Code):** Developing scalable, modern, and clean-coded digital solutions driven by an entrepreneurial spirit.
-* 🟢 **CYBERSECURITY (Secure):** Specializing in Blue Team operations. Positioning security not as an option, but as a non-negotiable requirement (Cyber Resilience & Risk Management).
-* 🟣 **VIDEO & CONTENT (Create):** Leveraging the power of visual storytelling to communicate complex technical visions clearly.
-* 🟠 **ARTIFICIAL INTELLIGENCE (AI):** Utilizing data and automation (n8n, Python) to integrate forward-thinking efficiency into traditional processes.
+I don't just consume the digital world; I rebuild it on **4 core pillars**. Combining the technical foundation of **Computer Programming** with the analytical depth of **Linguistics**, I create secure and scalable digital solutions.
 
 ---
 
-### ⚡ The Unique Edge: Linguistics Meets Logic
+## 🚀 Vision: EO Digital Lab
 
-My background in **Turkish Language and Literature** is not a coincidence; it is my strategic advantage.
+**EO Digital Lab** is the unified umbrella for my multidisciplinary expertise. My focus areas:
 
-It enhances my ability to analyze complex structures and patterns. I bridge the gap between *natural languages* and *computer languages*, applying deep analytical thinking to both code syntax and cybersecurity threats.
-
----
-
-### 🛠️ Technical Arsenal
-
-**Development & Automation:**
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/n8n-FF6560?style=for-the-badge&logo=n8n&logoColor=white" />
-</p>
-
-**Security & OS:**
-<p>
-  <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Cyber%20Security-Blue%20Team-blue?style=for-the-badge&logo=kalilinux&logoColor=white" />
-</p>
+- 🔵 **DEV (Code):** Building modern, responsive Frontend interfaces & scalable architectures.
+- 🟢 **CYBERSECURITY (Secure):** Engaging in both **Red Team** (Offensive) & **Blue Team** (Defensive) operations to ensure total digital resilience.
+- 🟠 **AI & AUTOMATION:** Leveraging Python & AI workflows to optimize efficiency.
+- 🟣 **MEDIA (Create):** Visual storytelling for complex technical concepts.
 
 ---
 
-### 📊 GitHub Stats
+## ⚡ The Unique Edge: Linguistics Meets Logic
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=0Ersin0&show_icons=true&theme=radical&hide_border=true" alt="Ersin's Stats" />
-</p>
+🎓 My academic journey is dual-tracked: **Computer Programming** & **Literature**.
+This is my strategic advantage. I apply my ability to analyze natural language structures to **computer languages and code syntax**.
+*I bridge the gap between human language and machine logic.*
 
-<p align="center">
-  <i>"Let's build the secure digital future together."</i>
-</p>
+---
+
+## 🛠️ Technical Arsenal
+
+### 💻 Development & Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
+### 🛡️ Security & OS (Red & Blue)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
+![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Network Security](https://img.shields.io/badge/NetSec-Red_&_Blue-red?style=for-the-badge)
+
+### 🎥 Creative & Media
+![Adobe Premiere](https://img.shields.io/badge/Adobe_Premiere-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)
+![DaVinci Resolve](https://img.shields.io/badge/DaVinci_Resolve-121011?style=for-the-badge&logo=davinciresolve&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative_AI-FF9900?style=for-the-badge)
+
+---
+
+## 📊 GitHub Stats
+
+![Ersin's GitHub stats](https://github-readme-stats.vercel.app/api?username=KULLANICI_ADINI_BURAYA_YAZ&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICI_ADINI_BURAYA_YAZ&layout=compact&theme=radical)
+
+---
+
+<div align="center">
+  <a href="mailto:seninmailin@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/seninlinkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  
+  **"Building a secure digital future, line by line."**
+</div>
