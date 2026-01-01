@@ -61,7 +61,7 @@ This is my strategic advantage. I apply my ability to analyze natural language s
   <a href="mailto:seninmailin@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/seninlinkedin">
+  <a href="https://www.linkedin.com/in/ersin-%C3%B6z%C3%BCdo%C4%9Fru-3808342a8/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   
