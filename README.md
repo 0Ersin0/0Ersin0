@@ -1,7 +1,11 @@
 # Hi there, I'm Ersin! 👋
 ### Founder @ EO Digital Lab | Cybersecurity & Software Developer
 
-**Cybersecurity (Red & Blue Team) | Frontend Dev | AI & Video Creator**
+<p align="left">
+  <img src="https://img.shields.io/badge/Cybersecurity-Red_%26_Blue-red?style=flat-square&logo=fortinet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Frontend-Developer-blue?style=flat-square&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_%26_Automation-Python-green?style=flat-square&logo=python&logoColor=white" />
+</p>
 
 > *"Code • Create • Secure"*
 
@@ -31,34 +35,43 @@ This is my strategic advantage. I apply my ability to analyze natural language s
 ## 🛠️ Technical Arsenal
 
 ### 💻 Development & Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+| Language | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | `Python`, `JavaScript`, `HTML5`, `CSS3` |
+| **Tools** | `Git`, `GitHub`, `VS Code`, `Flask` |
+| **OS** | `Fedora`, `Parrot OS`, `Kali Linux` |
 
-### 🛡️ Security & OS (Red & Blue)
+### 🛡️ Security Stack
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Network Security](https://img.shields.io/badge/NetSec-Red_&_Blue-red?style=for-the-badge)
+![Network Security](https://img.shields.io/badge/Network_Security-Shield-red?style=for-the-badge)
 
 ---
 
 ## 📂 Featured Projects (EO Digital Lab)
 
-- 🔒 **EO Digital Vault:** A secure, Python-based password manager (v2.0).
-- 📡 **NetVisor:** Network scanning and visualization tool for security monitoring.
-- 📊 **SentinEL:** Live log analysis and monitoring dashboard built with Flask.
+* 🔒 **[EO Digital Vault](https://github.com/0Ersin0/EO-Digital-Vault):** A secure, Python-based password manager (v2.0).
+* 📡 **[NetVisor](https://github.com/0Ersin0/NetVisor):** Network scanning and visualization tool for security monitoring.
+* 📊 **[SentinEL](https://github.com/0Ersin0/SentinEL):** Live log analysis and monitoring dashboard built with Flask.
 
 ---
 
 ## 📊 GitHub Analytics
 
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=0Ersin0&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0Ersin0&layout=compact&theme=radical&hide_border=true" />
-</p>
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=0Ersin0&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="Ersin's Stats" />
+      </td>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0Ersin0&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=0Ersin0&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
 
 ---
 
