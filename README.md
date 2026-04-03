@@ -1,53 +1,36 @@
-<div align="center">
-  <h1>⚡ Ersin Özüdoğru | EO Digital Lab</h1>
-  <h3>🛡️ Cybersecurity (Blue Team) & Software Engineer</h3>
-  <p><i>Architecting secure backend systems, automating complex workflows, and monitoring digital threats.</i></p>
+# ⚡ Ersin Özüdoğru
+**Software Engineer & Cybersecurity (Blue Team) | Founder @ EO Digital Lab**
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ersin-özüdoğru-3808342a8/)
-</div>
+🔗 **LinkedIn:** [linkedin.com/in/ersin-özüdoğru-3808342a8](https://www.linkedin.com/in/ersin-özüdoğru-3808342a8/)
 
 ---
 
-## 👨‍💻 Mission Brief
-As the founder of **EO Digital Lab**, my focus is strictly on the intersection of scalable software development and defensive cybersecurity. I don't just write code; I engineer secure, monitorable, and resilient digital architectures.
+## 🎯 Vizyon ve Odak Noktası
+Güvenli dijital mimariler tasarlıyor, karmaşık iş akışlarını otomatikleştiriyor ve yazılım geliştirme ile savunma odaklı siber güvenlik (Blue Team) arasındaki köprüyü kuruyorum. Temel amacım; kurumsal standartlarda, ölçeklenebilir ve başından itibaren güvenlik (security-first) prensibiyle tasarlanmış sistemler inşa etmektir.
 
-- 🔭 **Currently Building:** Enterprise-grade security tools and network visualization frameworks.
-- 🛡️ **Core Discipline:** Blue Team Operations, Active Log Analysis, Secure Backend Design.
-- ⚙️ **Tech Mindset:** Security-first, automated, and architecturally clean.
+## ⚙️ Teknik Yetkinlikler
 
-## 🛠️ Technical Arsenal
+**Yazılım & Veri Tabanı:**
+* 🐍 Python
+* 💠 C#
+* 🛢️ T-SQL
+* ⚡ JavaScript
+* 🛠️ Flask
 
-### 💻 Development & Databases
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![T-SQL](https://img.shields.io/badge/T--SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+**Altyapı & Güvenlik:**
+* 🐧 Linux (Fedora, Kali Linux, Parrot OS)
+* 📦 Sanallaştırma (VirtualBox)
+* 🐙 Versiyon Kontrolü (Git & GitHub)
 
-### 🔐 Security & Infrastructure
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
-![Parrot OS](https://img.shields.io/badge/Parrot_OS-3BCCCC?style=for-the-badge)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+## 🚀 Projeler ve Geliştirme Süreci
 
----
-
-## 🚀 Active Operations
-
-| Project Name | Status | Designation | Core Tech |
+| Proje Adı | Durum | Kullanılan Teknolojiler | Açıklama |
 | :--- | :--- | :--- | :--- |
-| **[EO Digital Vault](#)** | 🟡 *In Dev* | Zero-knowledge secure password manager. | `Python`, `Cryptography` |
-| **[NetVisor](#)** | 🟡 *In Dev* | Active network scanning & threat visualization. | `Python`, `Networking` |
-| **[SentinEL](#)** | 🟡 *In Dev* | Live log analysis & anomaly detection dashboard. | `Flask`, `Python`, `T-SQL` |
+| **EO Digital Vault** | Geliştirme Aşamasında | Python, Kriptografi | Sıfır bilgi prensibine (zero-knowledge) dayalı güvenli parola yöneticisi. |
+| **NetVisor** | Geliştirme Aşamasında | Python, Ağ Yönetimi | Ağ tarama ve durum izleme aracı. |
+| **SentinEL** | Geliştirme Aşamasında | Flask, T-SQL | Log analizi ve sistem metrikleri paneli. |
 
-> *Note: Source codes and architecture documentation will transition to public visibility upon reaching official stable releases.*
+> Not: Projelerin kaynak kodları ve mimari dokümantasyonları, kararlı (stable) sürümlere ulaşıldığında genel erişime açılacaktır.
 
 ---
-
-## 📊 Intelligence & Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0Ersin0&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0Ersin0&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
-</div>
+*İletişim ve iş birlikleri için LinkedIn üzerinden ulaşabilirsiniz.*
