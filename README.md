@@ -1,36 +1,33 @@
-# ⚡ Ersin Özüdoğru
-**Software Engineer & Cybersecurity Specialist (Red & Blue Team) | Founder @ EO Digital Lab**
+# ⚡ ERSIN ÖZÜDOĞRU
+**Software Engineer | Cybersecurity (Red & Blue Team) | Founder @ EO Digital Lab**
 
-🔗 **LinkedIn:** [linkedin.com/in/ersin-ozudogru](https://www.linkedin.com/in/ersin-ozudogru)
+🔗 **[LinkedIn Profile](https://www.linkedin.com/in/ersinozudogru/)**
 
 ---
 
-## 🎯 Core Operating Vector
-Architecting secure backend systems, developing offensive/defensive security tools, and automating complex threat-hunting workflows. Bridging the gap between raw software engineering and enterprise-grade cybersecurity.
+## 🎯 Executive Summary
+I do not just write code; I engineer resilient digital architectures. My focus lies at the exact intersection of scalable backend development and proactive cybersecurity. I build systems that are secure by design, automate complex threat-hunting workflows, and bridge the gap between raw software engineering and enterprise-level defense mechanisms.
 
-## ⚙️ Technical Arsenal
+## ⚙️ Technical Blueprint
 
-**Development & Database:**
-* 🐍 Python
-* 💠 C#
-* 🛢️ T-SQL
-* ⚡ JavaScript
-* 🛠️ Flask
+| Domain | Core Technologies & Architecture |
+| :--- | :--- |
+| **Backend & Databases** | `Python`, `C#`, `T-SQL`, `Flask` |
+| **Security Operations** | `Penetration Testing`, `Active Log Analysis`, `Cryptography` |
+| **Infrastructure & OS** | `Kali Linux`, `Parrot OS`, `Fedora`, `VirtualBox` |
+| **Version Control** | `Git`, `GitHub` |
 
-**Infrastructure & Security Operations:**
-* ⚔️ Penetration Testing & Exploit Development (Red Team)
-* 🛡️ Active Monitoring & Log Analysis (Blue Team)
-* 🐧 Linux Ecosystem (Kali Linux, Parrot OS, Fedora)
-* 📦 Virtualization & Isolated Environments (VirtualBox, VMware)
-* 🐙 Version Control (Git & GitHub)
+## 🚀 Active Operations & Codebases
 
-## 🚀 Active Repositories & Operations
-
-| Project / Repository | Status | Tech Stack | Objective |
+| Repository / Operation | Designation | Tech Stack | Architecture & Objective |
 | :--- | :--- | :--- | :--- |
-| **[Secure-Password-Manager](#)** | `[ PUBLIC ]` | Python, Cryptography | A local, zero-knowledge password manager utilizing AES-256 encryption. |
-| **[Security-Honeypot-Project](#)** | `[ PUBLIC ]` | Flask, Python | Web security honeypot monitoring and blocking SQLi and Brute-Force attempts. |
-| **[NetVisor](#)** | `[ IN_DEV ]` | Python, Networking | Custom network scanning and active threat monitoring framework. |
-| **[SentinEL](#)** | `[ IN_DEV ]` | Flask, T-SQL | Live log analysis and anomaly detection dashboard. |
+| **[Secure-Password-Manager](#)** | `[ PUBLIC ]` | Python | A local, zero-knowledge password manager utilizing AES-256 encryption protocols. |
+| **[Security-Honeypot-Project](#)** | `[ PUBLIC ]` | Flask, Python | Web security honeypot engineered to monitor and block SQLi and Brute-Force anomalies. |
+| **[NetVisor](#)** | `[ IN_DEV ]` | Python, Networking | Custom network scanning and active threat visualization framework. |
+| **[SentinEL](#)** | `[ IN_DEV ]` | Flask, T-SQL | Enterprise-grade live log analysis and anomaly detection dashboard. |
 
-> *Note: Codebases are actively maintained. Architecture documentation and English READMEs are available within individual repositories.*
+## 🧠 Continuous Training & Research
+* **IBM CyberStart 2.0:** Advanced cybersecurity concepts and threat mitigation strategies.
+* **AI Academy:** Integrating AI models into automated security and development workflows.
+
+> *Engineering Standard: All codebases are actively maintained. Architecture documentation, deployment schemas, and comprehensive English READMEs are strictly enforced within individual repositories.*
