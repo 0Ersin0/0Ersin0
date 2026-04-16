@@ -1,33 +1,111 @@
-# ⚡ ERSIN ÖZÜDOĞRU
-**Software Developer | Cybersecurity (Red & Blue Team) | Founder @ EO Digital Lab**
+<div align="center">
 
-🔗 **[LinkedIn Profile](https://www.linkedin.com/in/ersinozudogru/)**
+```
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║   ███████╗██████╗ ███████╗██╗███╗   ██╗                      ║
+║   ██╔════╝██╔══██╗██╔════╝██║████╗  ██║                      ║
+║   █████╗  ██████╔╝███████╗██║██╔██╗ ██║                      ║
+║   ██╔══╝  ██╔══██╗╚════██║██║██║╚██╗██║                      ║
+║   ███████╗██║  ██║███████║██║██║ ╚████║                      ║
+║   ╚══════╝╚═╝  ╚═╝╚══════╝╚═╝╚═╝  ╚═══╝                      ║
+║                                                              ║
+║          ÖZÜDOĞRU  ·  Software Developer                     ║
+║          Cyber Defense  ·  Founder @ EO Digital Lab          ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+[`linkedin.com/in/ersinozudogru →`](https://www.linkedin.com/in/ersinozudogru/)
+
+</div>
 
 ---
 
-## 🎯 Executive Summary
-I do not just write code; I develop resilient digital architectures. My focus lies at the exact intersection of scalable backend development and proactive cybersecurity. I build systems that are secure by design, automate complex threat-hunting workflows, and bridge the gap between raw software development and enterprise-level defense mechanisms.
+```python
+class ErsinOzudogru:
+    role        = "Software Developer & Security Researcher"
+    affiliation = "Founder @ EO Digital Lab"
+    philosophy  = "Secure by design. Not by afterthought."
+    focus       = ["Defensive Automation (Blue Team)", "Resilient Backend", "Threat Hunting"]
+```
 
-## ⚙️ Technical Blueprint
+---
 
-| Domain | Core Technologies & Architecture |
+## >_ OPERATOR PROFILE
+
+I build systems at the intersection of **scalable backend engineering** and **blue team defense**. My primary objective is not to find holes — it is to make sure holes cannot be exploited at scale. Defensive automation, AI-assisted anomaly detection, and cryptographic architecture are the tools I reach for first.
+
+I am transparent about my environment: my workstation runs **Windows with WSL2** to leverage a dedicated RTX GPU for AI-assisted security tooling. Kali Linux and Parrot OS operate in isolated VirtualBox lab environments. I do not fabricate a Linux-primary setup to signal competence I have not built.
+
+---
+
+## >_ TECHNICAL STACK
+
+**Languages & Frameworks**
+
+| Layer | Technologies |
 | :--- | :--- |
-| **Backend & Databases** | `Python`, `C#`, `T-SQL`, `Flask` |
-| **Security Operations** | `Penetration Testing`, `Active Log Analysis`, `Cryptography` |
-| **Infrastructure & OS** | `Kali Linux`, `Parrot OS`, `Fedora`, `VirtualBox` |
-| **Version Control** | `Git`, `GitHub` |
+| Primary Languages | `Python` `C#` `T-SQL` |
+| Frameworks | `Flask` `CustomTkinter` |
+| Security Domain | `Cryptography` `Log Analysis` `Anomaly Detection` `Honeypot Engineering` |
+| Infrastructure | `WSL2` `Kali Linux` `Parrot OS` `VirtualBox` |
+| Tooling | `Git` `GitHub` `SQLite` |
 
-## 🚀 Active Operations & Codebases
+---
 
-| Repository / Operation | Designation | Tech Stack | Architecture & Objective |
-| :--- | :--- | :--- | :--- |
-| **Secure-Password-Manager** | `[ PUBLIC ]` | Python | A local, zero-knowledge password manager utilizing AES-256 encryption protocols. |
-| **Security-Honeypot-Project** | `[ PUBLIC ]` | Flask, Python | Web security honeypot engineered to monitor and block SQLi and Brute-Force anomalies. |
-| **NetVisor** | `[ IN_DEV ]` | Python, Networking | Custom network scanning and active threat visualization framework. |
-| **SentinEL** | `[ IN_DEV ]` | Flask, T-SQL | Enterprise-grade live log analysis and anomaly detection dashboard. |
+## >_ ACTIVE OPERATIONS
 
-## 🧠 Continuous Training & Research
-* **IBM CyberStart 2.0:** Advanced cybersecurity concepts and threat mitigation strategies.
-* **AI Academy:** Integrating AI models into automated security and development workflows.
+```
+┌─────────────────────────────────────────────────────────────────────────┐
+│  REPOSITORY              STATUS       STACK                             │
+├─────────────────────────────────────────────────────────────────────────┤
+│  EO Digital Vault v2.0   [ PUBLIC ]   Python · CustomTkinter · AES-256  │
+│  SentinEL                [ ACTIVE ]   Flask · T-SQL · AI Integration    │
+│  Security-Honeypot       [ PUBLIC ]   Python · Flask                    │
+│  NetVisor                [ ACTIVE ]   Python · Networking               │
+└─────────────────────────────────────────────────────────────────────────┘
+```
 
-> *Development Standard: All codebases are actively maintained. Architecture documentation, deployment schemas, and comprehensive English READMEs are strictly enforced within individual repositories.*
+### EO Digital Vault v2.0
+Local-first, zero-knowledge password manager. Implements **AES-256-GCM** authenticated encryption with no cloud dependency. Built with Python and CustomTkinter. Architecture prioritizes offline resilience and cryptographic correctness over convenience.
+
+### SentinEL
+Live log ingestion and AI-driven anomaly detection dashboard. Flask backend with T-SQL storage layer. Designed for real-time threat surface monitoring — flags behavioral deviations, not just known signatures.
+
+### Security-Honeypot
+Passive deception layer engineered to capture and log **SQL injection** and **brute-force** attack vectors. Collects attacker behavior data for threat intelligence.
+
+### NetVisor
+Custom network scanning framework with active threat visualization. Built for controlled lab environments and internal network auditing.
+
+---
+
+## >_ TRAINING & CREDENTIALS
+
+```
+[ FELLOW ]   AI Academy — Group A · Anadolu University
+             Machine learning integration in security operations workflows.
+
+[ CERT   ]   IBM CyberStart 2.0
+             Advanced threat mitigation, adversarial patterns, and cyber defense frameworks.
+```
+
+---
+
+## >_ OPERATING STANDARD
+
+```
+┌──────────────────────────────────────────────────────────────────┐
+│  All repositories are actively maintained.                       │
+│  Each codebase ships with architecture documentation,            │
+│  deployment schemas, and English-language READMEs.               │
+│  No dead repos. No placeholder projects.                         │
+└──────────────────────────────────────────────────────────────────┘
+```
+
+<div align="center">
+
+`// The best security is the kind that runs without you watching.`
+
+</div>
