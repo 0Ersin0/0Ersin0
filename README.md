@@ -1,84 +1,33 @@
-<div align="center">
+# ⚡ ERSİN ÖZÜDOĞRU
+**Software Developer | Cyber Defense (Blue Team) | Founder @ EO Digital Lab**
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║   ███████╗██████╗ ███████╗██╗███╗   ██╗                      ║
-║   ██╔════╝██╔══██╗██╔════╝██║████╗  ██║                      ║
-║   █████╗  ██████╔╝███████╗██║██╔██╗ ██║                      ║
-║   ██╔══╝  ██╔══██╗╚════██║██║██║╚██╗██║                      ║
-║   ███████╗██║  ██║███████║██║██║ ╚████║                      ║
-║   ╚══════╝╚═╝  ╚═╝╚══════╝╚═╝╚═╝  ╚═══╝                      ║
-║                                                              ║
-║          ÖZÜDOĞRU  ·  Software Developer                     ║
-║          Cyber Defense  ·  Founder @ EO Digital Lab          ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-[linkedin.com/in/ersinozudogru](https://www.linkedin.com/in/ersinozudogru/)
-
-</div>
-
-<br>
-
-```python
-class ErsinOzudogru:
-    role        = "Software Developer & Security Researcher"
-    affiliation = "Founder @ EO Digital Lab"
-    philosophy  = "Secure by design. Not by afterthought."
-    focus       = ["Defensive Automation (Blue Team)", "Resilient Backend", "Threat Hunting"]
-```
-
-<br>
+🔗 **[LinkedIn Profile](https://www.linkedin.com/in/ersinozudogru/)**
 
 ---
 
-### About
+## 🎯 Executive Summary
+I build resilient digital architectures and focus on defensive security. Operating at the intersection of scalable backend development and proactive cybersecurity, I develop systems that are secure by design. My core expertise lies in defensive automation, integrating AI into security operations, and bridging the gap between raw software engineering and enterprise-level defense mechanisms.
 
-I work at the intersection of backend engineering and blue team defense. The goal is not just to identify threats — it is to architect systems that contain them automatically. AI-assisted anomaly detection and cryptographic design are core to how I build.
+## ⚙️ Technical Blueprint
 
-My workstation runs Windows with WSL2 to make full use of an RTX GPU for AI-assisted tooling. Kali Linux and Parrot OS run in isolated VirtualBox environments. I do not misrepresent my stack.
-
----
-
-### Stack
-
-| Domain | Technologies |
+| Domain | Core Technologies & Architecture |
 | :--- | :--- |
-| Languages | Python · C# · T-SQL |
-| Frameworks | Flask · CustomTkinter |
-| Security | Cryptography · Log Analysis · Anomaly Detection · Honeypot Engineering |
-| Infrastructure | WSL2 · Kali Linux · Parrot OS · VirtualBox |
-| Tooling | Git · GitHub · SQLite |
+| **Backend & Databases** | `Python`, `C#`, `T-SQL`, `Flask` |
+| **Security Operations** | `Defensive Automation`, `Active Log Analysis`, `Cryptography` |
+| **Infrastructure & OS** | `Windows Workstation (WSL2)`, `Kali Linux`, `Parrot OS`, `VirtualBox` |
+| **Version Control** | `Git`, `GitHub` |
 
----
+## 🚀 Active Operations & Codebases
 
-### Projects
+| Repository / Operation | Status | Tech Stack | Architecture & Objective |
+| :--- | :--- | :--- | :--- |
+| **EO Digital Vault v2.0** | `[ DEPLOYED ]` | Python, CustomTkinter | Zero-knowledge local password manager engineered with AES-256-GCM encryption. |
+| **SentinEL** | `[ IN_DEV ]` | Flask, T-SQL, AI | Enterprise-grade live log analysis and AI-driven anomaly detection dashboard. |
+| **Security-Honeypot** | `[ ACTIVE ]` | Flask, Python | Web security honeypot designed to actively monitor and trap SQLi/Brute-Force vectors. |
+| **NetVisor** | `[ IN_DEV ]` | Python, Networking | Custom network scanning and active threat visualization framework. |
 
-**EO Digital Vault v2.0** `[ PUBLIC ]`
-> Local-first password manager. AES-256-GCM authenticated encryption. No cloud dependency, no telemetry. Python + CustomTkinter.
+## 🧠 Continuous Training & Research
+* **AI Academy Fellow (Group A):** Integrating AI models into automated security workflows (Anadolu University).
+* **IBM CyberStart 2.0:** Advanced threat mitigation and defensive architecture concepts.
 
-**SentinEL** `[ IN DEVELOPMENT ]`
-> Live log ingestion pipeline with AI-driven anomaly detection. Flask backend, T-SQL storage layer. Built to flag behavioral deviations — not just known signature matches.
-
-**Security-Honeypot** `[ PUBLIC ]`
-> Passive deception system engineered to capture SQL injection and brute-force vectors. Logs attacker behavior for downstream threat intelligence.
-
-**NetVisor** `[ IN DEVELOPMENT ]`
-> Custom network scanning framework with active threat visualization. Designed for internal auditing in controlled lab environments.
-
----
-
-### Credentials
-
-| | |
-| :--- | :--- |
-| AI Academy — Group A | Anadolu University · ML integration in security operations |
-| IBM CyberStart 2.0 | Advanced threat mitigation and cyber defense frameworks |
-
----
-
-<div align="center">
-<sub>All repositories are actively maintained — architecture docs, deployment schemas, and English READMEs enforced.</sub>
-</div>
+> *Development Standard: All codebases are actively maintained. Architecture documentation, secure coding standards, and comprehensive English READMEs are strictly enforced.*
