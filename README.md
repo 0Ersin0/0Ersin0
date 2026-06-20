@@ -1,4 +1,4 @@
-# ⚡ ERSİN ÖZÜDOĞRU
+# ⚡ ERSİN Ö.
 **Software Developer | Cyber Defense (Blue Team) | Founder @ EO Digital Lab**
 
 🔗 **[LinkedIn Profile](https://www.linkedin.com/in/ersinozudogru/)**
