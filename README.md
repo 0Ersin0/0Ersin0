@@ -1,33 +1,67 @@
-# ⚡ ERSİN Ö.
-**Software Developer | Cyber Defense (Blue Team) | Founder @ EO Digital Lab**
+# ⚡ ERSİN ÖZÜDOĞRU
+**Software Engineer & Cyber Defense Specialist | Founder @ EO Digital Lab**
 
-🔗 **[LinkedIn Profile](https://www.linkedin.com/in/ersinozudogru/)**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ersinozudogru/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0Ersin0)
 
 ---
 
 ## 🎯 Executive Summary
-I build resilient digital architectures and focus on defensive security. Operating at the intersection of scalable backend development and proactive cybersecurity, I develop systems that are secure by design. My core expertise lies in defensive automation, integrating AI into security operations, and bridging the gap between raw software engineering and enterprise-level defense mechanisms.
+Dedicated **Software Developer** and **Cybersecurity Practitioner (Blue & Red Team)** building secure-by-design applications and resilient backend architectures. Currently pursuing dual degrees in **Computer Programming** and **Turkish Language & Literature**, I operate at the intersection of application development, defensive security automation, and AI workflows. My focus is bridging the gap between clean software engineering and enterprise-level threat defense mechanisms.
+
+---
 
 ## ⚙️ Technical Blueprint
 
-| Domain | Core Technologies & Architecture |
++------------------------------------------------------------------------------------+
+|  Software & Web Dev  :: Python, C#, JavaScript, HTML5/CSS3, Electron, CustomTkinter |
+|  Databases & Server  :: T-SQL, SQL Server, Flask, FastAPI                          |
+|  Cyber Security      :: Defensive Automation, Red/Blue Team, Log Analysis, AES-256 |
+|  Environment & Tools :: Linux Systems (Kali/Parrot), WSL2, Git, GitHub             |
++------------------------------------------------------------------------------------+
+
+| Domain | Core Technologies & Stack |
 | :--- | :--- |
-| **Backend & Databases** | `Python`, `C#`, `T-SQL`, `Flask` |
-| **Security Operations** | `Defensive Automation`, `Active Log Analysis`, `Cryptography` |
-| **Infrastructure & OS** | `Windows Workstation (WSL2)`, `Kali Linux`, `Parrot OS`, `VirtualBox` |
-| **Version Control** | `Git`, `GitHub` |
+| **Software & Web Development** | `Python`, `C#`, `JavaScript`, `HTML5/CSS3`, `Electron`, `CustomTkinter` |
+| **Backend & Databases** | `Flask`, `FastAPI`, `T-SQL`, `SQL Server` |
+| **Cybersecurity (Red & Blue)**| `Defensive Automation`, `Active Log Analysis`, `Cryptography (AES-256)`, `Honeypots` |
+| **Infrastructure & OS** | `Windows (WSL2)`, `Kali Linux`, `Parrot OS`, `Git`, `GitHub` |
 
-## 🚀 Active Operations & Codebases
+---
 
-| Repository / Operation | Status | Tech Stack | Architecture & Objective |
+## 🚀 Repositories & Active Operations
+
+| Repository / Project | Status | Tech Stack | Architecture & Objective |
 | :--- | :--- | :--- | :--- |
-| **EO Digital Vault v2.0** | `[ DEPLOYED ]` | Python, CustomTkinter | Zero-knowledge local password manager engineered with AES-256-GCM encryption. |
-| **SentinEL** | `[ IN_DEV ]` | Flask, T-SQL, AI | Enterprise-grade live log analysis and AI-driven anomaly detection dashboard. |
-| **Security-Honeypot** | `[ ACTIVE ]` | Flask, Python | Web security honeypot designed to actively monitor and trap SQLi/Brute-Force vectors. |
-| **NetVisor** | `[ IN_DEV ]` | Python, Networking | Custom network scanning and active threat visualization framework. |
+| **[turkref](https://github.com/0Ersin0/turkref)** | `[ STABLE ]` | JavaScript, Electron | Air-gapped, client-side desktop solution engineered for academic NLP corpus annotation. |
+| **[secure-password-manager](https://github.com/0Ersin0/secure-password-manager)** | `[ DEPLOYED ]` | Python, CustomTkinter | Zero-knowledge local password manager engineered with client-side AES-256 encryption. |
+| **[Security-Honeypot-Project](https://github.com/0Ersin0/Security-Honeypot-Project)** | `[ ACTIVE ]` | HTML, Python, Flask | Web security honeypot designed to actively monitor, log, and trap SQLi & Brute-Force attack vectors. |
+| **[eodl-pomodoro](https://github.com/0Ersin0/eodl-pomodoro)** | `[ STABLE ]` | HTML, JavaScript | Productivity-focused lightweight web application developed under EO Digital Lab. |
+| **[kodluyoruz-frontend](https://github.com/0Ersin0/kodluyoruz-frontend)** | `[ COMPLETED ]` | HTML, CSS | Frontend development practice repository focused on clean, modern web UI practices. |
 
-## 🧠 Continuous Training & Research
-* **AI Academy Fellow (Group A):** Integrating AI models into automated security workflows (Anadolu University).
-* **IBM CyberStart 2.0:** Advanced threat mitigation and defensive architecture concepts.
+---
 
-> *Development Standard: All codebases are actively maintained. Architecture documentation, secure coding standards, and comprehensive English READMEs are strictly enforced.*
+## 🧠 Education, Fellowship & Certifications
+
+* **Computer Programming** — Anadolu University
+* **Turkish Language & Literature** — Fourth Year Student
+* **AI Academy Fellow (Group A)** — Anadolu University | *Integrating AI models into automated software & security workflows.*
+* **IBM CyberStart 2.0** — *Advanced threat mitigation, network defense, and system hardening.*
+
+---
+
+<details>
+<summary><b>📊 System & Activity Metrics</b></summary>
+
+<br />
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=0Ersin0&show_icons=true&theme=dark&hide_border=true" alt="Ersin's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0Ersin0&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%" />
+</p>
+
+</details>
+
+---
+
+> 💡 *Engineering Culture: Clean architecture, air-gapped system designs, secure coding standards, and comprehensive English documentation are strictly enforced across all repositories.*
