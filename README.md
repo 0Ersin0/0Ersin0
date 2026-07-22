@@ -13,13 +13,6 @@ Dedicated **Software Developer** and **Cybersecurity Practitioner (Blue & Red Te
 
 ## ⚙️ Technical Blueprint
 
-+------------------------------------------------------------------------------------+
-|  Software & Web Dev  :: Python, C#, JavaScript, HTML5/CSS3, Electron, CustomTkinter |
-|  Databases & Server  :: T-SQL, SQL Server, Flask, FastAPI                          |
-|  Cyber Security      :: Defensive Automation, Red/Blue Team, Log Analysis, AES-256 |
-|  Environment & Tools :: Linux Systems (Kali/Parrot), WSL2, Git, GitHub             |
-+------------------------------------------------------------------------------------+
-
 | Domain | Core Technologies & Stack |
 | :--- | :--- |
 | **Software & Web Development** | `Python`, `C#`, `JavaScript`, `HTML5/CSS3`, `Electron`, `CustomTkinter` |
